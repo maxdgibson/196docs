@@ -91,7 +91,7 @@ def process_images_in_folder(folder_path, output_csv, req_h, req_w):
     with open(output_csv, 'a') as csvfile:
         csvfile.write("};")
 
-
+```
 3. **Save Output to Header File**:
    - The script outputs formatted byte arrays into a `.h` file.
    - Include this file in your Arduino project.
@@ -109,7 +109,7 @@ const unsigned char idle[][256] PROGMEM = {
   ...
 },
 };
-
+```
 
 ![Converted Sprite as C Array](pictures/converted-sprite-c-array.png)
 
