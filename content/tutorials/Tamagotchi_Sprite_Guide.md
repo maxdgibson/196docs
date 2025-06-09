@@ -126,4 +126,6 @@ The array is stored in `PROGMEM` to reduce SRAM usage. Each `0x##` byte correspo
 
 ---
 
-This guide was created to help others bring custom sprite art to life in embedded electronics projects. Good luck, and have fun!
+This guide was created to help others bring custom sprite art to life in embedded electronics projects. 
+
+Credit to openAI Chat-GPT, being able to provide it all the context to my work, as well as links to everything and it dealing with the markdown formatting made this tutorial much easier to complete. 
